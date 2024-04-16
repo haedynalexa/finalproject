@@ -54,7 +54,12 @@ nav a {
 }
 
 .rounded-image {
-    width: 200px;
+    width: 500px;
     height: auto;
     border-radius: 10px;
+}
+
+.image-container {
+    display: flex;
+    justify-content: center;
 }
