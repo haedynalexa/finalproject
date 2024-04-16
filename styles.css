@@ -12,10 +12,21 @@ h1 {
         font-family: Italiana, sans-serif;
     }    
 
-    nav {
+nav {
         font-family: Italiana, sans-serif;
     }
     
-    nav a {
+nav a {
         font-family: Italiana, sans-serif;
     }    
+
+.ballet {
+  font-family: "Ballet", cursive;
+  font-optical-sizing: auto;
+  font-weight: 400;
+  font-style: normal;
+}
+
+#about h2 {
+    font-family: Ballet, cursive;
+}
