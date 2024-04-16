@@ -2,11 +2,12 @@ body {
     margin: 0;
     padding: 0;
 }
-
-header {
-    .italiana-regular {
+.italiana-regular {
         font-family: "Italiana", sans-serif;
         font-weight: 400;
         font-style: normal;
       }      
-}
+
+h1 {
+        font-family: Italiana, sans-serif;
+    }    
