@@ -14,10 +14,17 @@ h1 {
 
 nav {
         font-family: Italiana, sans-serif;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        height: 100px;
+        background-color: black;
     }
     
 nav a {
         font-family: Italiana, sans-serif;
+        text-decoration: none;
+        margin: 0 10px;
     }    
 
 .ballet {
