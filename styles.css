@@ -30,3 +30,13 @@ nav a {
 #about h2 {
     font-family: Ballet, cursive;
 }
+
+.cormorant-garamond-light {
+    font-family: "Cormorant Garamond", serif;
+    font-weight: 300;
+    font-style: normal;
+  }
+
+  p {
+    font-family: Cormorant Garamond, sans-serif;
+}
