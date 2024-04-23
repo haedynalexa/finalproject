@@ -60,7 +60,20 @@ nav a {
 }
 
 .container {
-    width: 50%;
-    margin: 0;
     text-align: center;
+}
+
+.container img rounded-image {
+    max-width: 100%;
+    height: auto;
+    border-radius: 50%;
+    display: block;
+    margin: 0 auto;
+}
+
+#about {
+    max-width: 800px;
+    margin: 0 auto;
+    text-align: left;
+    padding: 20px;
 }
