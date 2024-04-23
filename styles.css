@@ -36,7 +36,7 @@ nav a {
 }
 
 #about-me h2 {
-    font-family: Ballet, cursive;
+    font-family: "Ballet", cursive;
     display: flex;
     justify-content: center;
     align-items: center;
