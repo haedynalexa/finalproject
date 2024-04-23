@@ -59,7 +59,8 @@ nav a {
     border-radius: 10px;
 }
 
-.image-container {
-    display: flex;
-    justify-content: center;
+.container {
+    width: 50%;
+    margin: 0;
+    text-align: center;
 }
