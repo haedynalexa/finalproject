@@ -88,7 +88,7 @@ nav a[href="resume.pdf"] {
 }
 
 form {
-    background-color: white; /* Set background color for the form */
+    background-color: rgba(137, 69, 69, 0.537); /* Set background color for the form */
             padding: 20px; /* Add padding to the form */
             border-radius: 10px; /* Add rounded corners */
             width: 300px; /* Adjust width as needed */
