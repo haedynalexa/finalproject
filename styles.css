@@ -119,4 +119,26 @@ button[type="submit"] {
         button[type="submit"]:hover {
             background-color: #0056b3; /* Change background color on hover */
         }
-         
+
+        .project-container {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            height: 100vh;
+        }
+        
+        .project-link {
+            text-decoration: none;
+            margin: 10px;
+        }
+        
+        .project-square {
+            width: 200px;
+            height: 200px;
+            background-color: #007bff; /* Change the background color as needed */
+            color: white;
+            text-align: center;
+            line-height: 200px; /* Center the text vertically */
+            font-size: 20px;
+            border-radius: 10px;
+        }
