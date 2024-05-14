@@ -142,3 +142,7 @@ button[type="submit"] {
             font-size: 20px;
             border-radius: 10px;
         }
+        .heading {
+            text-align: center; /* Center the heading horizontally */
+            margin-top: 50px; /* Adjust top margin as needed */
+        }
